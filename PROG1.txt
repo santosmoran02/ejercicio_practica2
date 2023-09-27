@@ -1,0 +1,10 @@
+palabra-https://dle.rae.es/palabra 
+gato-https://dle.rae.es/gato?m=form
+lámpara-https://dle.rae.es/l%C3%A1mpara
+asa-ttps://dle.rae.es/asa?m=form
+pobeda-https://dle.rae.es/pobeda?m=form
+lia-https://dle.rae.es/l%C3%ADa?m=form
+mu-https://dle.rae.es/mu?m=form
+reabrir-https://dle.rae.es/reabrir?m=form
+teca-https://dle.rae.es/teca?m=form
+wok-https://dle.rae.es/wok?m=form
